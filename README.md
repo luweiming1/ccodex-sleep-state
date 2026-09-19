@@ -157,13 +157,6 @@ macOS 对应 `./ccodex-sleep-state doctor`。不要发 `auth.json`、管理口�
 
 扫码加入 QQ 群，或搜索群号 **444137478**。
 
-### 朋友的卡网 · RedeemAI
-
-<img src="docs/assets/redeemai-ad.jpg" alt="朋友的卡网 RedeemAI：AI 服务兑换及 Codex 额度相关商品，具体信息见卡网页面" width="640">
-
-朋友的卡网：[faka.redeemai.org](https://faka.redeemai.org)。友情展示，商品、价格及售后以卡网页面为准，图中的服务承诺未由本项目核验。本工具免费使用，无需购买；不代表 OpenAI 官方授权或背书。
-
-
 反馈时带上系统、Codex 版本、工具版本和错误提示就够了。**不要发账号凭据、完整订阅链接或未经检查的配置文件。**
 
 ## 想改代码

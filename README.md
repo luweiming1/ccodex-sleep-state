@@ -149,7 +149,8 @@ macOS 对应 `./ccodex-sleep-state doctor`。不要发 `auth.json`、管理口�
 
 ## 一起试，一起反馈
 
-Q群444137478
+Q群444137478![Uploading image.png…]()
+
 
 
 反馈时带上系统、Codex 版本、工具版本和错误提示就够了。**不要发账号凭据、完整订阅链接或未经检查的配置文件。**
